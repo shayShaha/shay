@@ -5,4 +5,4 @@ git basic exercise!
 
 This sentence was written from a local machine
 
-new changes
+new changes made using different branch
